@@ -51,8 +51,9 @@ Node.js (v18.x or later)
 Installation
 Clone repository:
 ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/kalpanatawari-web/PII_De-identification.git
+   or
+   git clone git@github.com:kalpanatawari-web/PII_De-identification.git
    ```
 Install dependencies:
 ```bash
