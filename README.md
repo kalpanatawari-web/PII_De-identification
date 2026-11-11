@@ -62,9 +62,12 @@ Install dependencies:
 Start development server:
 ```bash
    npm run dev
-   And to test
-   npm run test
+   
    ```
+And to test
+```bash
+   npm run test
+  ```
 The service will listen on `http://localhost:3000`.
 ---
 API Documentation
